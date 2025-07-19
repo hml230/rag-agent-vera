@@ -45,7 +45,7 @@ A routing graph node handles conversational flow. The agent uses two key tools:
 - `lookup`: queries metadata or direct paper content
 
 <p align="center">
-  <img src="images/archtecture.svg" alt="Architecture Image">
+  <img src="images/architecture.svg" alt="Architecture Image">
 </p>
 
 The graph conditionally selects tools before generating a final response using Mistral.
