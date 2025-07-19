@@ -1,0 +1,3 @@
+db_paths:
+  chroma: data/chroma_langchain_db/
+  sqlite: data/
