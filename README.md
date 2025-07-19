@@ -220,7 +220,7 @@ vera
 
 - Uses [ChromaDB](https://github.com/chroma-core/chroma) for vector storage
 
-- Powered by [Mistral 24B Small](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) and `mistral-embed` models
+- Uses [Mistral 24B Small](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) and `mistral-embed` models
 
 - Thank you to arXiv for use of its open access interoperability
 
