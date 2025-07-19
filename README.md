@@ -1,4 +1,4 @@
-# RAG Research Assistant Vera
+# Research Assistant Vera
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Docker](https://img.shields.io/badge/docker-enabled-blue.svg)
