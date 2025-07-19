@@ -208,7 +208,7 @@ vera
 
 - Chat history and caching with LangGraph
 
-- Test suite
+- Test and benchmarking suites
 
 - System evaluation metrics, agent monitoring components (drift, hallucinations, etc.)
 
